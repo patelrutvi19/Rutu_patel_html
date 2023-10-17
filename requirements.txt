@@ -1,0 +1,7 @@
+pink : e4b3b3 b7d8bf-bbb5ff-ebd69b
+green :e4b3b3-b7d8bf-bbb5ff-ebd69b
+purple :e4b3b3-b7d8bf-bbb5ff-ebd69b
+yellow :e4b3b3-b7d8bf-bbb5ff-ebd69b
+
+font family 1 : https://fonts.google.com/specimen/Gabarito
+font family 2 : https://fonts.google.com/specimen/Young+Serif
